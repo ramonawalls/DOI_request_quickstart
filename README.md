@@ -11,9 +11,8 @@ You should import this repo to build CyVerse Quickstarts
 |index.rst|Home page for documentation. Before you being.|documents written in markdown will need to be converted to restructured text|
 |step2.rst|Organize the dataset in the CyVerse Data Store|
 |step3.rst|Add metadata to the dataset top folder|
-|step4.rst|Submit the request for the DOI|
-|step5.rst|Submit the request for the DOI and wait for validation|
-|step6.rst|Data are published|
+|step4.rst|Submit the request for the DOI and wait for validation|
+|step5.rst|After data are published|
 |/img (folder)|Images for the tutorials|CyVerse logos and other useful images are already here|
 |example_directives_delete.rst|Example page with code for common restructured text objects||
 |cyverse_rst_defined_substitutions.txt|restructured text substitutions for common URLs and images||
