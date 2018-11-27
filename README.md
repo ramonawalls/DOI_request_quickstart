@@ -8,9 +8,8 @@ You should import this repo to build CyVerse Quickstarts
 
 |Item|Description|Notes|
 |----|-----------|-----|
-|index.rst|Home page for documentation|documents written in markdown will need to be converted to restructured text|
-|step1.rst|Before you begin|
-|step2.rst|Organize the dataset in the CyVerse Data Store|
+|index.rst|Home page for documentation. Before you being.|documents written in markdown will need to be converted to restructured text|
+|step1.rst|Organize the dataset in the CyVerse Data Store|
 |step3.rst|Add metadata to the dataset top folder|
 |step4.rst|Submit the request for the DOI|
 |step5.rst|Submit the request for the DOI and wait for validation|
