@@ -5,20 +5,14 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**QUICKSTART NAME**
+**DOI Request Quickstart*
 ===================
-
-..
-    #### Comment: Use short, imperative titles e.g. Upload and share data, uploading and
-    sharing data ####
 
 Goal
 ----
 
 ..
-    Avoid covering upstream and downstream steps that are not explicitly and
-    necessarily part of the tutorial - write or link to separate quick
-    starts/tutorials for those parts
+    Provides the basic steps for organizing your data and requesting a DOI. Full documentation is available at https://wiki.cyverse.org/wiki/display/DC/Publishing+Data+through+the+Data+Commons
 
 ..
     #### Comment: A few sentences (50 words or less) describing the ultimate goal of the steps
@@ -30,13 +24,10 @@ Goal
 	:maxdepth: 2
 
 	Quickstart home <self>
-	Step Two <step2.rst>
-	Delete this example guide page <example_directives_delete.rst>
-..
-	#### Comment:This tutorial can have multiple pages. The table of contents assumes
-	you have an additional page called 'Step Two' with content located in 'step2.rst'
-	Edit these titles and filenames as needed ####
-
+	Organize data <step2.rst>
+	Add metadata <step3.rst>
+	Submit request <step4.rst>
+	After publication <step5.rst>
 ..
     #### Comment: If you are using the TOC remove the 'summary', 'Additional information,
     help' and 'Fix or improve this tutorial' from all pages except the last page of the
