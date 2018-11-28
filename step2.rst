@@ -73,8 +73,8 @@ Create a text file labeled "readMe" with the following information:
 - How to reuse the data, such as which apps can analyze the data.
 - The inventory (see step 2.6) may be included as part of the readme file.
 - Examples of good readme files:
-+ http://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Carolyn_Lawrence_Dill_G2F_Mar_2017/_readme.txt
-+ http://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Liang_Schnable_UNLPlantVision_2017/readMe.txt
+	+ http://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Carolyn_Lawrence_Dill_G2F_Mar_2017/_readme.txt
+	+ http://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Liang_Schnable_UNLPlantVision_2017/readMe.txt
 
 ----------
 
@@ -91,10 +91,18 @@ If your dataset contains folders with many files (e.g., large collections of ima
 
 ----------
 
+Next Steps:
+========================
+
+ 3. `Add metadata <step3.rst>`_
+ 4. `Submit request <step4.rst>`_
+ 5. `After publication <step5.rst>`_
+
+
 Additional information, help
 ========================
 
-The UPenn library offers |this guide|.
+The UPenn library offers |this guide| to organizing data.
 
 DataONE best practices for |document storage systems|.
 
@@ -136,7 +144,7 @@ Post your question to the user forum:
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="https://github.com/ramonawalls/DOI_request_quickstart" target="blank">Github Repo Link</a>
+   <a href="https://github.com/CyVerse-learning-materials/DOI_request_quickstart" target="blank">Github Repo Link</a>
    
 .. |CyVerse Curated Data Folder-Naming Guidelines|  raw:: html
 

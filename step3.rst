@@ -22,16 +22,17 @@
 .. tip::
 	Be sure to include at least 3 subject key words or phrases, so that people can discover your data!
 
-.. Comment: Place URLS Below This Line
+.. Comment:
 
    # Provide a link to the metadata template quickstart when it is ready
 
 ----
 
 Next Steps:
-----------
+========================
 
-`4. Submit request <step4.rst>`
+ 4. `Submit request <step4.rst>`_
+ 5. `After publication <step5.rst>`_
 
 
 |Home_Icon|_
@@ -63,7 +64,7 @@ Next Steps:
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="https://github.com/ramonawalls/DOI_request_quickstart" target="blank">Github Repo Link</a>
+   <a href="https://github.com/CyVerse-learning-materials/DOI_request_quickstart" target="blank">Github Repo Link</a>
    
 .. |Using Metadata in the DE|  raw:: html
 

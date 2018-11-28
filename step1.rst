@@ -5,25 +5,34 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-1. Background - before you start
+1. Before you start
 ----------------
 
-*Background*
-~~~~~~~~~~~
+Background
+========================
 
-CyVerse Curated Data in the Data Commons contains files that have been assigned a permanent identifier (|DOI|). These files are secure, stable, and unchangeable, thus making them the ideal platform for ease of data reuse and data citation. Datasets in the CyVerse Curated Data site can store very large datasets that are difficult to transfer, upload, and download across different computers and platforms. CyVerse Curated data is accessible to CyVerse's suite of large-scale computational analysis resources, allowing users to seamlessly analyze, manage, and publish new results.
+CyVerse Curated Data in the Data Commons contains files that have been assigned a permanent identifier ( |DOI| ). These files are secure, stable, and unchangeable, thus making them the ideal platform for ease of data reuse and data citation. Datasets in the CyVerse Curated Data site can store very large datasets that are difficult to transfer, upload, and download across different computers and platforms. CyVerse Curated data is accessible to CyVerse's suite of large-scale computational analysis resources, allowing users to seamlessly analyze, manage, and publish new results.
 
 
-*Before you start*
-~~~~~~~~~~~
+Before you start
+========================
 Before you begin, review these related pages:
 
 - |Is Data Commons Curated Data right for my data?|
 - |Permanent Identifier FAQs|
 
 
+Next Steps:
+========================
+
+ 2. `Organize data <step2.rst>`_
+ 3. `Add metadata <step3.rst>`_
+ 4. `Submit request <step4.rst>`_
+ 5. `After publication <step5.rst>`_
+
+
 Additional information, help
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 Full documentation:
   |Requesting a permanent identifier|
@@ -69,7 +78,7 @@ Post your question to the user forum:
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="https://github.com/ramonawalls/DOI_request_quickstart" target="blank">Github Repo Link</a>
+   <a href="https://github.com/CyVerse-learning-materials/DOI_request_quickstart" target="blank">Github Repo Link</a>
    
 .. |Is Data Commons Curated Data right for my data?|  raw:: html
 

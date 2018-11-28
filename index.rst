@@ -5,7 +5,7 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-1. DOI Request Quickstart
+DOI Request Quickstart
 ===================
 
 Goal
@@ -19,7 +19,7 @@ This quickstart provides the basic steps for organizing your data and requesting
 	:maxdepth: 2
 
 	Quickstart home <self>
-	1. Background - before you start <step1.rst>
+	1. Before you start <step1.rst>
 	2. Organize data <step2.rst>
 	3. Add metadata <step3.rst>
 	4. Submit request <step4.rst>
@@ -83,7 +83,7 @@ Input and example data
 ----
 
 
-*Get started*
+Get started
 --------------
 
  1. `Background - before you start <step1.rst>`_
@@ -142,16 +142,8 @@ Post your question to the user forum:
    # forcing users to leave the document, and making it easy to update links
    # In a single place in this document
 
-   .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
-
-      <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
-
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+   <a href="https://github.com/CyVerse-learning-materials/DOI_request_quickstart" target="blank">Github Repo Link</a>
 
-
-.. |Download Cyberduck| raw:: html
-
-   <a href="https://cyberduck.io/" target="blank">Download Cyberduck</a>
