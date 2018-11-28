@@ -9,7 +9,7 @@ extensions = [
     'sphinx.ext.autodoc',
 ]
 
-project = 'DOI REQUEST QUICKSTART as topic_quick_start'
+project = 'DOI REQUEST QUICKSTART'
 copyright = '2018, CyVerse'
 author = 'Ramona L. Walls'
 version = '1.0'

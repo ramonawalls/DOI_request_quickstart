@@ -9,7 +9,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from misc.cyverse_sphinx_conf import *  # noqa
 
-project = 'DOI REQUEST QUICKSTART as topic_quick_start'
+project = 'DOI REQUEST QUICKSTART'
 copyright = '2018, CyVerse'
 author = 'Ramona L. Walls'
 version = '1.0'
