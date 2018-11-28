@@ -5,18 +5,13 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**DOI Request Quickstart*
+1. DOI Request Quickstart
 ===================
 
 Goal
 ----
 
-..
-    Provides the basic steps for organizing your data and requesting a DOI. Full documentation is available at https://wiki.cyverse.org/wiki/display/DC/Publishing+Data+through+the+Data+Commons
-
-..
-    #### Comment: A few sentences (50 words or less) describing the ultimate goal of the steps
-    in this tutorial ####
+This quickstart provides the basic steps for organizing your data and requesting a DOI. Full documentation is available at https://wiki.cyverse.org/wiki/display/DC/Publishing+Data+through+the+Data+Commons
 
 ----
 
@@ -24,10 +19,11 @@ Goal
 	:maxdepth: 2
 
 	Quickstart home <self>
-	Organize data <step2.rst>
-	Add metadata <step3.rst>
-	Submit request <step4.rst>
-	After publication <step5.rst>
+	1. Background - before you start <step1.rst>
+	2. Organize data <step2.rst>
+	3. Add metadata <step3.rst>
+	4. Submit request <step4.rst>
+	5. After publication <step5.rst>
 ..
     #### Comment: If you are using the TOC remove the 'summary', 'Additional information,
     help' and 'Fix or improve this tutorial' from all pages except the last page of the
@@ -38,12 +34,10 @@ Goal
 Prerequisites
 -------------
 
-
-
 Downloads, access, and services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*In order to complete this tutorial you will need access to the following services/software*
+*In order to complete this tutorial you will need access to the following services/software:*
 
 
  .. list-table::
@@ -55,20 +49,12 @@ Downloads, access, and services
    * - CyVerse account
      - You will need a CyVerse account to complete this exercise
      - |CyVerse User Portal|
-   * - Atmosphere access
-     - You must have access to Atmosphere
-     - |CyVerse User Portal|
-   * - Cyberduck
-     - Standalone software for upload/download to Data Store
-     - |Download Cyberduck|
+
 
 Platform(s)
 ~~~~~~~~~~~
 
 *We will use the following CyVerse platform(s):*
-
- ..
-   #### comment: delete any row not needed in this table ####
 
 .. list-table::
     :header-rows: 1
@@ -88,48 +74,11 @@ Platform(s)
       - |Discovery Environment|
       - |DE Manual|
       - |Discovery Environment Guide|
-    * - Atmosphere
-      - Command line (ssh) and/or Desktop (VNC)
-      - |Atmosphere|
-      - |Atmosphere Manual|
-      - |Atmosphere Guide|
-    * - BisQue
-      - Web/Point-and-click and/or Command-line (API)
-      - |BisQue|
-      - |BisQue Manual|
-      - (See Manual)
-    * - DNA Subway
-      - Web/Point-and-click
-      - |DNA Subway|
-      - (See Guide)
-      - |DNA Subway Guide|
-    * - SciApps
-      - Command-line (API)
-      - |SciApps|
-      - (See Guide)
-      - |SciApps Guide|
-    * - Agave API
-      - Command-line (API)
-      - |Agave API|
-      - |Agave Live Docs|
-      - (See Live Docs)
 
 Input and example data
 ~~~~~~~~~~~~~~~~~~~~~~
 
-*In order to complete this quickstart you will need to have the following inputs prepared*
-
-.. list-table::
-    :header-rows: 1
-
-    * - Input File(s)
-      - Format
-      - Preparation/Notes
-      - Example Data
-    * -
-      -
-      -
-      -
+*No example data is required for this quickstart. You will input your own dataset when you are ready to request a DOI.*
 
 ----
 
@@ -137,24 +86,11 @@ Input and example data
 *Get started*
 --------------
 
-1. Step one
-2. Step two
-
-----
-
-
-
-*Summary*
-~~~~~~~~~~~
-
-
-**Next Steps:**
-
-Some common next steps include:
-
-1. Step
-
-2. Step
+ 1. `Background - before you start <step1.rst>`_
+ 2. `Organize data <step2.rst>`_
+ 3. `Add metadata <step3.rst>`_
+ 4. `Submit request <step4.rst>`_
+ 5. `After publication <step5.rst>`_
 
 ----
 

@@ -6,7 +6,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-*Organize data*
+2. Organize data
 ----------------
 
 There are several steps to properly organizing your dataset. These include determining what data to include, how many identifiers to request, how to organize the data into folders, and creating the ReadMe file and data inventory.
@@ -19,7 +19,9 @@ There are several steps to properly organizing your dataset. These include deter
 2.6. Create an inventory
 
 ----------
-**2.1. Determine what to include:**
+
+2.1. Determine what to include:
+========================
 
 1. A data collection may be composed of multiple files and different datasets. In preparing your data for publication:
 
@@ -30,7 +32,8 @@ There are several steps to properly organizing your dataset. These include deter
 
 ----------
 
-**2.2. Determine how many permanent identifiers to request:**
+2.2. Determine how many permanent identifiers to request:
+========================
 
 To determine how many DOIs to request for a given data collection, consider the following:
 
@@ -42,7 +45,8 @@ To determine how many DOIs to request for a given data collection, consider the 
 
 ----------
 
-**2.3. Organize your data into folder(s):**
+2.3. Organize your data into folder(s):
+========================
 
 1. Organize your data so that there is one folder for each DOI, named according to step 2.4.
 2. Within a folder, include all files in your data package plus the ReadMe file and the inventory.
@@ -51,7 +55,8 @@ To determine how many DOIs to request for a given data collection, consider the 
 
 ----------
 
-**2.4. Name your top level folder according to the guidelines:**
+2.4. Name your top level folder according to the guidelines:
+========================
 
 The folder containing your dataset should be named using the $Creator_$subject_$date format.
 
@@ -59,7 +64,8 @@ For more details on folder naming, see the |CyVerse Curated Data Folder-Naming G
 
 ----------
 
-**2.5. Create a ReadMe file:**
+2.5. Create a ReadMe file:
+========================
 
 Create a text file labeled "readMe" with the following information:
 
@@ -72,7 +78,8 @@ Create a text file labeled "readMe" with the following information:
 
 ----------
 
-**2.6. Create an inventory:**
+2.6. Create an inventory:
+========================
 
 You must create a plain text document that includes an inventory of the contents of the organized dataset (at a minimum, your dataset will contain one data file and one ReadMe file).
 
@@ -85,7 +92,7 @@ If your dataset contains folders with many files (e.g., large collections of ima
 ----------
 
 Additional information, help
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 The UPenn library offers |this guide|.
 

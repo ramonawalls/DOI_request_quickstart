@@ -6,7 +6,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-*Add metadata*
+3. Add metadata
 ----------------
 1. Add metadata to the dataset folder
 	a. In the Data window, click the checkbox next to the folder.
@@ -28,9 +28,11 @@
 
 ----
 
-**Next Steps:**
-
+Next Steps:
 ----------
+
+`4. Submit request <step4.rst>`
+
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
