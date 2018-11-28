@@ -6,48 +6,31 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-*Section Name*
+*Add metadata*
 ----------------
+1. Add metadata to the dataset folder
+	a. In the Data window, click the checkbox next to the folder.
+	b. Select Metadata > Edit / View Metadata
+	c. Alternatively, you can choose Edit / View Metadats from the three dot menu next to the file.
+	d. Click on + Select Template and and choose the DOI Request / Datacite metadata template.
+	e. Complete the required fields (marked with an asterisk) and as many of the optional fields as possible.
+	f. Save the template. 
+2. For more information, including how to apply metadata in bulk, see |Using Metadata in the DE|.
+3. You may add any additional metadata that is appropriate. We encourage the use of additional metadata to make your data better understood and more discoverable.
+4. We encourage the use of metadata on subfolders and individual files in your datasets.
 
-1. Step one
-2. Step two
+.. tip::
+	Be sure to include at least 3 subject key words or phrases, so that people can discover your data!
 
-..
-    #### Comment: A numbered list of steps go here ####
+.. Comment: Place URLS Below This Line
+
+   # Provide a link to the metadata template quickstart when it is ready
 
 ----
-
-*Summary*
-~~~~~~~~~~~
-
-..
-    Summary
 
 **Next Steps:**
 
 ----------
-
-Additional information, help
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-..
-    Short description and links to any reading materials
-
-Search for an answer:
-|CyVerse Learning Center| or
-|CyVerse Wiki|
-
-Post your question to the user forum:
-|Ask CyVerse|
-
-----
-
-**Fix or improve this documentation**
-
-- On Github: |Github Repo Link|
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
-
-----
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
@@ -76,11 +59,18 @@ Post your question to the user forum:
    # forcing users to leave the document, and making it easy to update links
    # In a single place in this document
 
-   .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
-
-      <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
-
-
 .. |Github Repo Link|  raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+   <a href="https://github.com/ramonawalls/DOI_request_quickstart" target="blank">Github Repo Link</a>
+   
+.. |Using Metadata in the DE|  raw:: html
+
+   <a href="https://wiki.cyverse.org/wiki/display/DEmanual/Using+Metadata+in+the+DE" target="blank">Using Metadata in the DE</a>
+   
+.. |Permanent Identifier FAQs|  raw:: html
+
+   <a href="https://github.com/ramonawalls/DOI_request_quickstart" target="blank">Permanent Identifier FAQs</a>
+   
+.. |Requesting a permanent identifier|  raw:: html
+
+   <a href="https://wiki.cyverse.org/wiki/display/DC/Requesting+a+Permanent+Identifier+in+the+Data+Commons" target="blank">Requesting a permanent identifier</a>

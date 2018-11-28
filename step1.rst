@@ -6,32 +6,36 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-*Section Name*
+*Quickstart home*
 ----------------
 
-1. Step one
-2. Step two
-
-..
-    #### Comment: A numbered list of steps go here ####
+1. Step one: Background - before you start
+2. Step two: Organize data 
+3. Step three: Add metadata 
+4. Step four: Submit request and wait for validations
+5. Step five: After publication 
 
 ----
 
 *Summary*
 ~~~~~~~~~~~
 
-..
-    Summary
+CyVerse Curated Data in the Data Commons contains files that have been assigned a permanent identifier (|DOI|). These files are secure, stable, and unchangeable, thus making them the ideal platform for ease of data reuse and data citation. Datasets in the CyVerse Curated Data site can store very large datasets that are difficult to transfer, upload, and download across different computers and platforms. CyVerse Curated data is accessible to CyVerse's suite of large-scale computational analysis resources, allowing users to seamlessly analyze, manage, and publish new results.
 
-**Next Steps:**
 
-----------
+*Before you start*
+~~~~~~~~~~~
+Before you begin, review these related pages:
+
+- |Is Data Commons Curated Data right for my data?|
+- |Permanent Identifier FAQs|
+
 
 Additional information, help
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-..
-    Short description and links to any reading materials
+Full documentation:
+  |Requesting a permanent identifier|
 
 Search for an answer:
 |CyVerse Learning Center| or
@@ -39,13 +43,6 @@ Search for an answer:
 
 Post your question to the user forum:
 |Ask CyVerse|
-
-----
-
-**Fix or improve this documentation**
-
-- On Github: |Github Repo Link|
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 ----
 
@@ -76,11 +73,21 @@ Post your question to the user forum:
    # forcing users to leave the document, and making it easy to update links
    # In a single place in this document
 
-   .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
-
-      <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
-
+.. |DOI|  raw:: html
+   <a href="https://www.doi.org/" target="blank">DOI</a>
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+   <a href="https://github.com/ramonawalls/DOI_request_quickstart" target="blank">Github Repo Link</a>
+   
+.. |Is Data Commons Curated Data right for my data?|  raw:: html
+
+   <a href="https://github.com/ramonawalls/DOI_request_quickstart" target="blank">Is Data Commons Curated Data right for my data?</a>
+   
+.. |Permanent Identifier FAQs|  raw:: html
+
+   <a href="https://github.com/ramonawalls/DOI_request_quickstart" target="blank">Permanent Identifier FAQs</a>
+   
+.. |Requesting a permanent identifier|  raw:: html
+
+   <a href="https://wiki.cyverse.org/wiki/display/DC/Requesting+a+Permanent+Identifier+in+the+Data+Commons" target="blank">Requesting a permanent identifier</a>

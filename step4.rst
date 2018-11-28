@@ -6,49 +6,33 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-*Section Name*
+*Submit request and wait for validations*
 ----------------
 
-1. Step one
-2. Step two
+1. Submit DOI request
+	a. In the Data window, click the checkbox next to the folder.
+	b. Select Metadata > Request DOI.
+	c. After verifying you have read the instructions (i.e. this page), click "I need a DOI". You will receive a verification email that your request has been received, and a notification will be listed in the Notifications list in the DE.	
+.. tip::
+	At this point, your folder will move to a new location under Community Data/commons_repo/staging.
+2. Validations
+	a. After submitting your request, a CyVerse Curated Data curator begins validating your dataset, metadata, and overall configuration of your dataset. 
+	b. Validations are based solely on the required DOI metadata and folder-naming conventions, as well as its potential utility to the CyVerse and larger scientific community—not the quality of your data.
 
-..
-    #### Comment: A numbered list of steps go here ####
+. . Possible validation actions::
+	- If the curator determines that minor changes are needed, they may make those changes themselves.
+	- If the curator determines that substantive changes are needed, they will contact you with required changes.
+	- If the curator determines that your dataset is not appropriate for the Curated Data section of the Data Commons (e.g., because it belongs in NCBI), you will be notified.
+	- If the curator determines that the dataset is adequately organized and the DataCite metadata are accurate, they will provide a DOI, and you will be notified of the DOI and the final dataset location.
+
+.. tip::
+	To check the status of your request, click Notifications (the bell icon) at the top right of the DE screen. For more information on using notifications in the DE, see |Viewing and Deleting Notifications|.
 
 ----
-
-*Summary*
-~~~~~~~~~~~
-
-..
-    Summary
 
 **Next Steps:**
 
 ----------
-
-Additional information, help
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-..
-    Short description and links to any reading materials
-
-Search for an answer:
-|CyVerse Learning Center| or
-|CyVerse Wiki|
-
-Post your question to the user forum:
-|Ask CyVerse|
-
-----
-
-**Fix or improve this documentation**
-
-- On Github: |Github Repo Link|
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
-
-----
-
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
@@ -76,11 +60,18 @@ Post your question to the user forum:
    # forcing users to leave the document, and making it easy to update links
    # In a single place in this document
 
-   .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
-
-      <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
-
-
 .. |Github Repo Link|  raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+   <a href="https://github.com/ramonawalls/DOI_request_quickstart" target="blank">Github Repo Link</a>
+   
+.. |Viewing and Deleting Notifications|  raw:: html
+
+   <a href="https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+and+Deleting+Notifications" target="blank">Viewing and Deleting Notifications</a>
+   
+.. |Permanent Identifier FAQs|  raw:: html
+
+   <a href="https://github.com/ramonawalls/DOI_request_quickstart" target="blank">Permanent Identifier FAQs</a>
+   
+.. |Requesting a permanent identifier|  raw:: html
+
+   <a href="https://wiki.cyverse.org/wiki/display/DC/Requesting+a+Permanent+Identifier+in+the+Data+Commons" target="blank">Requesting a permanent identifier</a>
